@@ -1,6 +1,7 @@
 p{
     color: rebeccapurple;
 }
+<<<<<<< HEAD
 input{
     width: 100px;
     height: 100px;
@@ -8,4 +9,9 @@ input{
 }
 h1{
     direction: initial;
+=======
+span{
+    height: 65656px;
+    text-align: center;
+>>>>>>> dev1
 }
